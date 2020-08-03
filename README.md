@@ -1,11 +1,12 @@
 # School-Library-Management-System
 ## School-End-Year-Project
+
 School Library Management System
 
-platform used : Windows 7 64bit
+Platform used : Windows 7 64bit
 
-prgramming language used : c++
+Prgramming language used : C++
 
-ide/compiler used : Borland C++ 5.02 for Windows
+Ide/Compiler used : Borland C++ 5.02 for Windows
 
-data/records database : *.dat file format used
+Data/Records Database : *.dat file format used
